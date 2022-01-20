@@ -1,3 +1,8 @@
+# Componentes Basados en Clases - React
+
+Este es un ejemplo de un carro de compras en React
+Con Componentes basados en Clases
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
